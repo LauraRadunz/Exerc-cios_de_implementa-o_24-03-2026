@@ -1,1 +1,1 @@
-# Exerc-cios_de_implementa-o_24-03-2026
+Nestes exercícios você atua como dev e tem que interpretar o que o projetista quis te informar através dos diagramas. Implemente um projeto java no VsCode com 2 pacotes: 1 para biblioteca e outro para folha de pagamento
